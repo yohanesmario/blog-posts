@@ -3,6 +3,7 @@ title: "WFH and Wayland"
 date: 2020-08-16T21:56:00+0700
 draft: false
 tags: ["covid-19", "wfh", "wayland", "xterm", "tmux"]
+summary: With COVID-19 still out there, and with WFH mode still being the primary mode of work for my case, most of my meetings are being done online. Ocassionaly, I need to share my screen in these meetings.
 ---
 
 > _**WFH** --- Work From Home / Working Remotely_
